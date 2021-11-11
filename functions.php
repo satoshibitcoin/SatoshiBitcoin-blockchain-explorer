@@ -2,14 +2,6 @@
 
 function rpc_get($post_json) {
 	
-	// Daca nu te poti conecta trebuie sa verifici fisierul de setari /home/max/.satoshibitcoin/satoshibitcoin.conf sa aiba urmatoarele 2 linii
-	//  rpcallowip=0.0.0.0/0
-	//  main.rpcbind=0.0.0.0
-	
-	// exemplu de accesare cu curl
-	// curl --user <username>:<password> --data-binary '{"jsonrpc": "1.0", "id": "curltest", "method": "getrawtransaction", "params": ["3a694df52e674e73d584bd455224b1afbb898d8a56c4c7bd80f6b660b05d8852", true]}' -H 'content-type: text/plain;' http://173.249.52.171:5332/
-	
-	
 	$result = false; // se va schimba pe parcurs
 
 	$RPCusername = '<username>';
