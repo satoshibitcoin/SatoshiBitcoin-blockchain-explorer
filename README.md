@@ -8,7 +8,7 @@ SatoshiBitcoin blockchain explorer
 	$RPCusername = '<username>';
 	$RPCpassword = '<password>';
 
-3) Edit RPC URL with your preferred URL into functions.php
+3) Edit RPC URL with your preferred URL or IP into functions.php
    http://server2.satoshibitcoin.app:5332
   
   Enjoy
