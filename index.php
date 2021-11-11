@@ -39,12 +39,12 @@
 	
 <center>
 
-	<a href="/" style="color:black; text-decoration: none; width: 500px; display:block" title="Homepage">
+	<a href="https://satoshibitcoin.app" style="color:black; text-decoration: none; width: 500px; display:block" title="Homepage">
 		<img style="vertical-align:bottom;" src="/assets/img/favicon.png" height="60">
 	</a>
 	
 	
-	<a href="/explorer" style="color:black; text-decoration: none; width: 500px; display:block">
+	<a href="https://satoshibitcoin.app/explorer/" style="color:black; text-decoration: none; width: 500px; display:block">
 		<h1 style="margin-top:40px; margin-bottom:40px; "><img style="vertical-align:bottom;" src="favicon.svg" height="60"> SathosiBitcoin Block Explorer</h1>
 	</a>
 
@@ -100,11 +100,7 @@ if ($search=='') { // Daca suntem in homepage (daca nu sa cautat nimic)
 }
 
 	  
-	
-
-	
-
-	  
+  
 
 ?>
 <br><br><br>
