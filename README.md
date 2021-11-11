@@ -1,4 +1,4 @@
-# SatoshiBitcoin-blockchain-explorer
+# SatoshiBitcoin blockchain explorer
 SatoshiBitcoin blockchain explorer
 
 Demo https://satoshibitcoin.app/explorer/
