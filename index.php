@@ -108,7 +108,7 @@ if ($search=='') { // Daca suntem in homepage (daca nu sa cautat nimic)
 
 ?>
 <br><br><br>
-<center><a href="https://satoshibitcoin.app" style="color:black; text-decoration: none; display:block; font-size:13px;" title="Homepage">Copyright satoshibitcoin.app</a></center>
+<center><a href="https://satoshibitcoin.app" target="_blank" style="color:black; text-decoration: none; display:block; font-size:13px;" title="Homepage">Copyright satoshibitcoin.app</a></center>
 <br><br>
 </body>
 </html>
