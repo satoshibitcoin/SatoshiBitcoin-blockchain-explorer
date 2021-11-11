@@ -1,0 +1,46 @@
+h1 {
+	font-family: 'Tangerine', serif;
+	font-size: 48px;
+}
+
+body {
+	font-family: "Sofia", sans-serif;
+	font-size: 18px;
+	background-color: #def4ff;
+	background-color: #f5f9fc;
+}
+
+#search {
+	font-family: "Sofia", sans-serif;
+	font-size: 18px;
+	width:660px;
+	margin-left:30px;
+
+	padding:3px;
+	border:0px;
+	border-radius: 5px;
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 0px;
+	box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+}
+
+#search_button {
+	font-family: "Sofia", sans-serif;
+	font-size: 18px;
+
+	padding:3px;
+	border:0px;
+	border-radius: 5px;
+	border-top-left-radius: 0px;
+	border-bottom-left-radius: 0px;
+	box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+	background-color: rgba(3, 102, 214, 0.3);
+
+	cursor: pointer;
+}
+
+@media screen and (max-width: 600px) {
+	body {
+		/*pentru mobile*/
+	}
+}
